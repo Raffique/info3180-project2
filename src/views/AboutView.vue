@@ -1,3 +1,6 @@
+<script>
+</script>
+
 <template>
   <div class="about container">
     <h2>About</h2>
